@@ -4,16 +4,16 @@ const chatMessages = document.getElementById("chatMessages");
 const chatStatus = document.getElementById("chatStatus");
 
 const portfolioContext = `
-Portfolio owner: Somya Singh.
+Portfolio owner: Abhimanyu Singh.
 Education: Computer Science student; exact institution and degree details have not been supplied.
 Skills shown on this portfolio: HTML, CSS, JavaScript, Python, Git, GitHub, and basic API integration.
 Projects:
-1. Factorial Calculator: https://github.com/Somya20-art/Somya-python-Factorial-25bcon0616
-2. Python Directory Exercises: https://github.com/Somya20-art/somya-python-Directory-25bcon0616
+1. Factorial Calculator: https://github.com/Somya20-art/Somya-python-Factorial-25bcon0615
+2. Python Directory Exercises: https://github.com/Somya20-art/somya-python-Directory-25bcon0615
 3. Student Marks Report Generator: https://github.com/Somya20-art/messy-python
-4. Python Debugging Practical: https://github.com/Somya20-art/Buggy-python-script-25bcon0616
-5. Interactive Quiz Application: https://github.com/Somya20-art/-Quiz_25bcon0616
-6. Book Reading List: https://github.com/Somya20-art/reading-list-25bcon0616
+4. Python Debugging Practical: https://github.com/Somya20-art/Buggy-python-script-25bcon0615
+5. Interactive Quiz Application: https://github.com/Somya20-art/-Quiz_25bcon0615
+6. Book Reading List: https://github.com/Somya20-art/reading-list-25bcon0615
 GitHub profile: https://github.com/Somya20-art
 The website also has a city-based weather widget.
 `;

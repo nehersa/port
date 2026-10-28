@@ -14,10 +14,9 @@ IMPORTANT:
 1. A Groq key was pasted into chat previously. Revoke that key in Groq and create a new one.
 2. In Vercel Project Settings > Environment Variables, set GROQ_API_KEY to the new key, then redeploy.
 3. This ChatGPT GitHub connection has read-only permissions for the portfolio repository, so these files were prepared for download rather than pushed directly.
-4. The provided link for “Messy Python Code Improvement” was not separately identified. The second Python repository is referenced in that card based on the supplied project URLs; please confirm it is the right repository before submitting.
+4. The provided link for “Messy Python Code Improvement” was not separately identified. The second Python repository is referenced in that card based on the supplied project URLs; please confirm the exact repo before submission.
 
-
-Personalization notes for Somya Singh:
+Personalization notes for Abhimanyu Singh:
 - GitHub profile: https://github.com/Somya20-art
 - Confirm exact education details, the dedicated messy-code practical repository, and Reading List deployment URL before submission.
 - Weather lookup now uses Open-Meteo and does not expose the old hardcoded weather API key.
