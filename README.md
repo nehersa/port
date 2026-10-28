@@ -1,11 +1,11 @@
 # Abhimanyu — Personal Portfolio
 
-A responsive portfolio website customized for Somya Singh and aligned with the Internal Assessment Project brief.
+A responsive portfolio website customized for Abhimanyu Singh and aligned with the Internal Assessment Project brief.
 
 ## Profile
-- Name: Somya Singh
+- Name: Abhimanyu Singh
 - GitHub: https://github.com/Somya20-art
-- Education and specialization: confirm the exact institution and course details with Somya before final submission.
+- Education and specialization: confirm the exact institution and course details with Abhimanyu before final submission.
 
 ## Technologies
 - HTML, CSS, JavaScript
@@ -26,16 +26,16 @@ A responsive portfolio website customized for Somya Singh and aligned with the I
 ## Projects
 
 1. **Python Programs Collection** — Python practice programs and fundamentals.
-   - https://github.com/Somya20-art/Somya-python-Factorial-25bcon0616
-   - https://github.com/Somya20-art/somya-python-Directory-25bcon0616
+   - https://github.com/Somya20-art/Somya-python-Factorial-25bcon0615
+   - https://github.com/Somya20-art/somya-python-Directory-25bcon0615
 2. **Messy Python Code Improvement** — AI-assisted code improvement practical. The repository link below is the Python practice repository and should be confirmed as the exact practical repo.
-   - https://github.com/Somya20-art/somya-python-Directory-25bcon0616
+   - https://github.com/Somya20-art/somya-python-Directory-25bcon0615
 3. **Bug Fixing Using Cursor AI** — Python debugging practical.
-   - https://github.com/Somya20-art/Buggy-python-script-25bcon0616
+   - https://github.com/Somya20-art/Buggy-python-script-25bcon0615
 4. **Interactive Quiz Application** — Interactive quiz practical.
-   - https://github.com/Somya20-art/-Quiz_25bcon0616
+   - https://github.com/Somya20-art/-Quiz_25bcon0615
 5. **Book Reading List Application** — Reading-list practical.
-   - https://github.com/Somya20-art/reading-list-25bcon0616
+   - https://github.com/Somya20-art/reading-list-25bcon0615
    - Live deployment URL: not confirmed; add it when available.
 
 ## Run Locally
@@ -49,7 +49,7 @@ The static website can be opened through a local web server. To test the chatbot
 
 ## Deploy to Vercel
 
-1. Push the portfolio files to a GitHub repository owned by Somya.
+1. Push the portfolio files to a GitHub repository owned by Abhimanyu.
 2. Import that repository into Vercel.
 3. In Vercel Project Settings → Environment Variables, add `GROQ_API_KEY` with a valid Groq API key.
 4. Optionally set `GROQ_MODEL` if a different supported model is required.
@@ -57,8 +57,8 @@ The static website can be opened through a local web server. To test the chatbot
 
 ## Important Before Submission
 
-- Confirm the exact education/institution details with Somya.
-- Confirm whether `somya-python-Directory-25bcon0616` is the correct repository for the separate “Messy Python Code Improvement” practical.
-- Add the live Reading List URL if Somya has deployed it.
+- Confirm the exact education/institution details with Abhimanyu.
+- Confirm whether `somya-python-Directory-25bcon0615` is the correct repository for the separate “Messy Python Code Improvement” practical.
+- Add the live Reading List URL if Abhimanyu has deployed it.
 - Add the final portfolio's public URL after deployment.
 - Set `GROQ_API_KEY` in Vercel; the chatbot will return a configuration error until this is done.
