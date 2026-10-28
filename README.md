@@ -1,4 +1,4 @@
-# Somya Singh — Personal Portfolio
+# Abhimanyu — Personal Portfolio
 
 A responsive portfolio website customized for Somya Singh and aligned with the Internal Assessment Project brief.
 
