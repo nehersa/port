@@ -1,0 +1,23 @@
+Portfolio assessment changes
+
+Files updated:
+- index.html: placeholders replaced; navigation, profile image, required sections, five project cards, and contact/GitHub links added.
+- style.css: existing visual approach retained with responsive navigation, cards, search field, and consistent light/dark variables.
+- script.js: existing weather behavior retained; project search/filter added; theme toggle supports aria-pressed.
+- chatbot.css: chatbot style adapted to the existing theme.
+- chatbot.js: retains chat UI, grounds answers in portfolio context, and calls a server endpoint instead of sending a private key from the browser.
+- config.js: public endpoint setting only; no API key.
+- api/chat.js: Vercel serverless Groq proxy; requires GROQ_API_KEY as a Vercel environment variable.
+- README.md: assessment features, project links, local run steps, and deployment/security instructions documented.
+
+IMPORTANT:
+1. A Groq key was pasted into chat previously. Revoke that key in Groq and create a new one.
+2. In Vercel Project Settings > Environment Variables, set GROQ_API_KEY to the new key, then redeploy.
+3. This ChatGPT GitHub connection has read-only permissions for the portfolio repository, so these files were prepared for download rather than pushed directly.
+4. The provided link for “Messy Python Code Improvement” was not separately identified. The second Python repository is referenced in that card based on the supplied project URLs; please confirm it is the right repository before submitting.
+
+
+Personalization notes for Somya Singh:
+- GitHub profile: https://github.com/Somya20-art
+- Confirm exact education details, the dedicated messy-code practical repository, and Reading List deployment URL before submission.
+- Weather lookup now uses Open-Meteo and does not expose the old hardcoded weather API key.
